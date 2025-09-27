@@ -33,5 +33,5 @@ The frontend is built with **React (JSX)** and styled using **Tailwind CSS**.
 
 ---
 
-## 📂 Project Structure
+
 
